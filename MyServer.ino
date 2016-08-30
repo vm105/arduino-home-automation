@@ -10,7 +10,7 @@
 
 #include <SPI.h>
 #include <Ethernet.h>
-#define PASSWORD "room234"
+#define PASSWORD "varun"
 #define LAMP1 8
 
 // Enter a MAC address and IP address for your controller below.
